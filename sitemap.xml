@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.qqc.pp.ua/53315/</loc>
+    
+    <lastmod>2025-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.qqc.pp.ua/dailyPhoto/index.html</loc>
     
     <lastmod>2025-09-13</lastmod>
@@ -110,6 +119,27 @@
 
   
   <url>
+    <loc>https://blog.qqc.pp.ua/tags/%E8%87%AA%E5%AD%A6/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.qqc.pp.ua/tags/%E6%95%99%E8%82%B2%E8%B5%84%E6%BA%90/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.qqc.pp.ua/tags/%E9%9D%92%E5%B9%B4%E6%88%90%E9%95%BF/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.qqc.pp.ua/tags/%E5%8D%9A%E5%AE%A2%E8%B5%B7%E7%82%B9/</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -124,6 +154,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://blog.qqc.pp.ua/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://blog.qqc.pp.ua/categories/%E6%8A%80%E6%9C%AF/</loc>
